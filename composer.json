@@ -1,0 +1,12 @@
+{
+  "name": "mini/mini",
+  "description": "Minin is a simple ",
+  "minimum-stability": "dev",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "hxp",
+      "email": "307701097@qq.com"
+    }
+  ]
+}
